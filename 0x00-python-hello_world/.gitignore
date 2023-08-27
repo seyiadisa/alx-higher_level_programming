@@ -1,5 +1,5 @@
-main.c
 10-linked_lists.c
 .vscode
-main
+__pycache__
+main*
 hello.py
